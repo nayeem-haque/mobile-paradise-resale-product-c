@@ -2,4 +2,5 @@
 Live website:https://mobile-paradise-7b27d.web.app
 
 Features and Functionalitise:
--Login & Registration using Google, Email & Password.
+1. Login & Registration using Google, Email & Password.
+2. After logging in anyone can see items.
