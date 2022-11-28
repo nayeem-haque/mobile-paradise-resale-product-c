@@ -7,4 +7,5 @@ Features and Functionalitise:
 3. Seller must login to check his/her products.
 4. Admin cas see and delete seller products.
 5. User can book or buy products.
+6. Blog Sections.
 
