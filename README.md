@@ -12,5 +12,7 @@ Features and Functionalitise:
 
  Technologies Used
 1. React Library.
-2.React Router.
+2. React Router.
+3. Mongodb.
+
 
