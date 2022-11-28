@@ -15,5 +15,6 @@ Features and Functionalitise:
 2. React Router.
 3. Mongodb.
 4. Vercel &
+5. Firebase.
 
 
