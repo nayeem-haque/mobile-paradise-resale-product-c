@@ -9,3 +9,7 @@ Features and Functionalitise:
 5. User can book or buy products.
 6. Blog Sections.
 
+
+ Technologies Used
+1. React Library.
+
